@@ -1,6 +1,6 @@
 # keep it under CONTROL_
 
-Asis Anupam Mohanty's electronics and electrical engineering portfolio. Industrial automation, PLCs, SCADA and plant instrumentation, with a scroll-driven narrative and a playable tank-control game.
+Asis Anupam Mohanty's electronics and electrical engineering portfolio. Industrial automation, PLCs, SCADA and plant instrumentatio.
 
 ## Run locally
 
